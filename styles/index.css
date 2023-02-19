@@ -72,7 +72,7 @@ a:active{
 	height: 4rem;
 	padding: 1rem;
 }
-@media screen and (max-width : 900px ){
+@media screen and (max-width : 1240px ){
 	.s {
 		padding: 1.14rem 5.14rem;
 		border: thick, solid, rgba(162,142,14,1.00);
@@ -90,7 +90,7 @@ a:active{
 	
 }
 
-@media screen and (min-width : 901px ){
+@media screen and (min-width : 1241px ){
 	.s {
 		padding: 1.14vw 5.14vw;
 		border: thick, solid, rgba(162,142,14,1.00);
