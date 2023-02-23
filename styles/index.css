@@ -68,10 +68,6 @@ a:active{
 	padding: 0;
 	margin: 0;
 }
-#badge img {
-	height: 4rem;
-	padding: 1rem;
-}
 @media screen and (max-width : 1240px ){
 	.s {
 		padding: 1.14rem 5.14rem;
@@ -87,6 +83,10 @@ a:active{
 		border-radius: 0.5rem;
 
 	}
+	#badge img {
+	width: 60vw;
+	padding: 1rem;
+}
 	
 }
 
@@ -104,4 +104,8 @@ a:active{
 		border-radius: 0.5rem;
 		display: inline-block;
 	}
+	#badge img {
+	height: 4rem;
+	padding: 1rem;
+}
 }
